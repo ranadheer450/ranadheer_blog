@@ -1,0 +1,24 @@
+body{
+  
+    /*background: url(eberhard-grossgasteiger-jCL98LGaeoE-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+}
+li{
+    list-style: none;
+}
+p{
+    color:green;
+}
+
+div.a{
+    text-align:left;
+    background-color: green;
+    
+}
+div.b{
+    text-align:right;
+    background-color: yellow;
+}
